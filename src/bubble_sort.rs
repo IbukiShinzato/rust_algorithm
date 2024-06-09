@@ -1,5 +1,6 @@
 use proconio::input;
 
+//バブルソート
 pub fn run() {
     input! {
         n: usize,
